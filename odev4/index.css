@@ -1,0 +1,33 @@
+* {
+    margin: 10px;
+    box-sizing: border-box;
+  }
+
+ 
+
+ body
+  {
+    background-color: #e0c9a9;
+  }
+
+.hr1 {
+    border: none;
+    border-top: 5px solid rgb(25, 25, 25);
+    border-radius: 10px;
+    margin: 20px;
+  }
+
+h1
+  {
+    text-align: center;
+  }
+
+.baslik
+ {
+ border-radius: 10px;
+ color: white;
+ text-align: center;
+ display:inline-block;
+ padding: 3px 15px;
+ }
+
